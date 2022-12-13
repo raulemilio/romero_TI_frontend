@@ -8,6 +8,6 @@ Descripción sobre el Backend y el Frontend:
 
 Presentación del proyecto
 
-- [presentación](https://github.com/raulemilio/romero_TI_frontend/blob/main/documentos/presentaci%C3%B3n_proyecto.pdf) 
+- [Presentación](https://github.com/raulemilio/romero_TI_frontend/blob/main/documentos/presentaci%C3%B3n_proyecto.pdf) 
 
 NOTA: Se deben descargar los archivos para poder visualizarlos.
